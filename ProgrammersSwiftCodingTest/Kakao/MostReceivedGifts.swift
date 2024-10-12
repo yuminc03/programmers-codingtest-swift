@@ -1,7 +1,6 @@
 import Foundation
 
 // 가장 많이 받은 선물
-
 func mostReceivedGifts(_ friends: [String], _ gifts: [String]) -> Int {
     var giftRate = [String: Int]()
     var giftRelationship = [String: [String: Int]]()
