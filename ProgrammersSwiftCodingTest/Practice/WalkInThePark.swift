@@ -1,5 +1,6 @@
 import Foundation
 
+// 공원 산책
 func walkInThePark(_ park: [String], _ routes: [String]) -> [Int] {
     let height = park.count
     let width = park[0].count
