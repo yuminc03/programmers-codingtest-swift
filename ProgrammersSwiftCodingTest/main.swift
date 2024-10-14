@@ -22,3 +22,5 @@ import Foundation
 //print(concatenateString(["progressive", "hamburger", "hammer", "ahocorasick"], [[0, 4], [1, 2], [3, 5], [7, 7]]))
 
 //print(trailingTextOfString("ProgrammerS123", 11))
+
+//print(firstCharOfString("ProgrammerS123", 11))
