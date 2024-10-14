@@ -19,4 +19,6 @@ import Foundation
 
 //print(makeArray5(["0123456789","9876543210","9999999999999"], 50000, 5, 5))
 
-print(concatenateString(["progressive", "hamburger", "hammer", "ahocorasick"], [[0, 4], [1, 2], [3, 5], [7, 7]]))
+//print(concatenateString(["progressive", "hamburger", "hammer", "ahocorasick"], [[0, 4], [1, 2], [3, 5], [7, 7]]))
+
+//print(trailingTextOfString("ProgrammerS123", 11))
