@@ -12,5 +12,7 @@ import Foundation
 //print(multipleAndAddOfComponents([3, 4, 5, 2, 1]))
 //print(multipleAndAddOfComponents([5, 7, 8, 3]))
 
-print(reminderDividedBy9("123"))
-print(reminderDividedBy9("78720646226947352489"))
+//print(reminderDividedBy9("123"))
+//print(reminderDividedBy9("78720646226947352489"))
+
+print(reverseString("rermgorpsam", [[2, 3], [0, 7], [5, 9], [6, 10]]))
