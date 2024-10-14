@@ -15,4 +15,6 @@ import Foundation
 //print(reminderDividedBy9("123"))
 //print(reminderDividedBy9("78720646226947352489"))
 
-print(reverseString("rermgorpsam", [[2, 3], [0, 7], [5, 9], [6, 10]]))
+//print(reverseString("rermgorpsam", [[2, 3], [0, 7], [5, 9], [6, 10]]))
+
+print(makeArray5(["0123456789","9876543210","9999999999999"], 50000, 5, 5))
