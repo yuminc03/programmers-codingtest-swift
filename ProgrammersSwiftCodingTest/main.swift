@@ -17,4 +17,6 @@ import Foundation
 
 //print(reverseString("rermgorpsam", [[2, 3], [0, 7], [5, 9], [6, 10]]))
 
-print(makeArray5(["0123456789","9876543210","9999999999999"], 50000, 5, 5))
+//print(makeArray5(["0123456789","9876543210","9999999999999"], 50000, 5, 5))
+
+print(concatenateString(["progressive", "hamburger", "hammer", "ahocorasick"], [[0, 4], [1, 2], [3, 5], [7, 7]]))
