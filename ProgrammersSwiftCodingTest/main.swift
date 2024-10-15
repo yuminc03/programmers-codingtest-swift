@@ -26,3 +26,5 @@ import Foundation
 //print(firstCharOfString("ProgrammerS123", 11))
 
 //print(suffixArray("banana"))
+
+//print(checkIsSuffix("banana", "ana"))
