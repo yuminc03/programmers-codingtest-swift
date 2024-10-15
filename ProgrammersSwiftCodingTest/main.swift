@@ -32,3 +32,5 @@ import Foundation
 //print(checkIsPrefix("banana", "bananan"))
 
 //print(makeArray1(10, 3))
+
+//print(countdown(10, 3))
