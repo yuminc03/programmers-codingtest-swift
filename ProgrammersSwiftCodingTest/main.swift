@@ -28,3 +28,5 @@ import Foundation
 //print(suffixArray("banana"))
 
 //print(checkIsSuffix("banana", "ana"))
+
+//print(checkIsPrefix("banana", "bananan"))
