@@ -30,3 +30,5 @@ import Foundation
 //print(checkIsSuffix("banana", "ana"))
 
 //print(checkIsPrefix("banana", "bananan"))
+
+//print(makeArray1(10, 3))
