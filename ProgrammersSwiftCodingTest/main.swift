@@ -24,3 +24,5 @@ import Foundation
 //print(trailingTextOfString("ProgrammerS123", 11))
 
 //print(firstCharOfString("ProgrammerS123", 11))
+
+//print(suffixArray("banana"))
