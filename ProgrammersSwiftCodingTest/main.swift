@@ -34,3 +34,5 @@ import Foundation
 //print(makeArray1(10, 3))
 
 //print(countdown(10, 3))
+
+//print(verticalReading("ihrhbakrfpndopljhygcs", 4, 2))
