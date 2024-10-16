@@ -49,3 +49,5 @@ import Foundation
 //print(makeArray3([1, 2, 3, 4, 5], [[1, 3], [0, 4]]))
 
 //print(elementInTheInterval([4, 2, 6, 1, 7, 6], 2))
+
+//print(oddVSEven([4, 2, 6, 1, 7, 6]))
