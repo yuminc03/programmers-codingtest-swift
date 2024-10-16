@@ -36,3 +36,7 @@ import Foundation
 //print(countdown(10, 3))
 
 //print(verticalReading("ihrhbakrfpndopljhygcs", 4, 2))
+
+//print(findNearest1([0, 0, 0, 1], 1))
+//print(findNearest1([1, 0, 0, 1, 0, 0], 4))
+//print(findNearest1([1, 1, 1, 1, 0], 3))
