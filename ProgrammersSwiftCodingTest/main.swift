@@ -42,3 +42,6 @@ import Foundation
 //print(findNearest1([1, 1, 1, 1, 0], 3))
 
 //print(firstNavigativeNumber([30, 35, 31, -1, 0]))
+
+//print(startingWithN([2, 1, 6], 3))
+//print(startingWithN([5, 2, 1, 7, 5], 2))
