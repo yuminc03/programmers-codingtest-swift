@@ -45,3 +45,5 @@ import Foundation
 
 //print(startingWithN([2, 1, 6], 3))
 //print(startingWithN([5, 2, 1, 7, 5], 2))
+
+//print(makeArray3([1, 2, 3, 4, 5], [[1, 3], [0, 4]]))
