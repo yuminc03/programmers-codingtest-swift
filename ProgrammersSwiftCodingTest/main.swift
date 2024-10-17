@@ -51,3 +51,5 @@ import Foundation
 //print(elementInTheInterval([4, 2, 6, 1, 7, 6], 2))
 
 //print(oddVSEven([4, 2, 6, 1, 7, 6]))
+
+//print(todoList(["problemsolving", "practiceguitar", "swim", "studygraph"], [true, false, true, false]))
