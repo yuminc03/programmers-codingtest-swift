@@ -53,3 +53,6 @@ import Foundation
 //print(oddVSEven([4, 2, 6, 1, 7, 6]))
 
 //print(todoList(["problemsolving", "practiceguitar", "swim", "studygraph"], [true, false, true, false]))
+
+//print(highlightA("PrOgRaMmErS"))
+//print(highlightA("abstract Algebra"))
