@@ -60,3 +60,5 @@ import Foundation
 //print(backToTop5([12, 4, 15, 46, 38, 1, 14, 56, 32, 10]))
 
 //print(numberBetweenX("oxooxoxxox"))
+
+//print(addManyElementOfArray([5, 1, 4]))
