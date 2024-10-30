@@ -66,3 +66,5 @@ import Foundation
 //print(removeVowels("nice to meet you"))
 
 //outputRightTriangle()
+
+//print(printAge(2003)) // 2022년 기준 나이
