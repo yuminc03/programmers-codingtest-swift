@@ -62,3 +62,5 @@ import Foundation
 //print(numberBetweenX("oxooxoxxox"))
 
 //print(addManyElementOfArray([5, 1, 4]))
+
+//print(removeVowels("nice to meet you"))
