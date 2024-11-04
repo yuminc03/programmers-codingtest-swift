@@ -68,3 +68,6 @@ import Foundation
 //outputRightTriangle()
 
 //print(printAge(2003)) // 2022년 기준 나이
+
+//print(determineSqrtOfInt(3))
+//print(determineSqrtOfInt(121))
