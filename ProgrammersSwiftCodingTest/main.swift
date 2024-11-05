@@ -71,3 +71,5 @@ import Foundation
 
 //print(determineSqrtOfInt(3))
 //print(determineSqrtOfInt(121))
+
+//print(makeLengthOfArrayPowerOf2([1, 2, 3, 4, 5, 6]))
