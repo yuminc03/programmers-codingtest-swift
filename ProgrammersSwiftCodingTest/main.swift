@@ -75,3 +75,6 @@ import Foundation
 //print(makeLengthOfArrayPowerOf2([1, 2, 3, 4, 5, 6]))
 
 //print(createWith1([12, 4, 15, 1, 14]))
+
+//print(flipSubstring("Progra21Sremm3", 6, 12))
+//print(flipSubstring("Stanley1yelnatS", 4, 10))
