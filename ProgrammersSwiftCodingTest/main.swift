@@ -78,3 +78,5 @@ import Foundation
 
 //print(flipSubstring("Progra21Sremm3", 6, 12))
 //print(flipSubstring("Stanley1yelnatS", 4, 10))
+
+//print(transformSeqToFitCondition2([1, 2, 3, 100, 99, 98]))
