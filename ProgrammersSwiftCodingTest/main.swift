@@ -80,3 +80,6 @@ import Foundation
 //print(flipSubstring("Stanley1yelnatS", 4, 10))
 
 //print(transformSeqToFitCondition2([1, 2, 3, 100, 99, 98]))
+
+//print(trucateAndSaveArray("abc1Addfggg4556b", 6))
+//print(trucateAndSaveArray("abcdef123", 3))
