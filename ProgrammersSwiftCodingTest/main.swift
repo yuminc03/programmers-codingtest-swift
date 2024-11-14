@@ -83,3 +83,5 @@ import Foundation
 
 //print(trucateAndSaveArray("abc1Addfggg4556b", 6))
 //print(trucateAndSaveArray("abcdef123", 3))
+
+//print(countCharacters("Programmers"))
