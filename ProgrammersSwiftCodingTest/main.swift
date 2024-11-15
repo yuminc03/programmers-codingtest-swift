@@ -85,3 +85,6 @@ import Foundation
 //print(trucateAndSaveArray("abcdef123", 3))
 
 //print(countCharacters("Programmers"))
+
+//print(sumOfTwoNumbers("18446744073709551615", "287346502836570928366"))
+//print(sumOfTwoNumbers("582", "734"))
