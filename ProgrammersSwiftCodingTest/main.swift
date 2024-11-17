@@ -92,3 +92,5 @@ import Foundation
 //print(nationalCompetitionSelectionTest([3, 7, 2, 5, 4, 6, 1], [false, true, true, true, true, false, false]))
 
 //print(stringHandlingBasics("1234"))
+
+//print(IHateEnglish("onetwothreefourfivesixseveneightnine"))
