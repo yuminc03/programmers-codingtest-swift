@@ -88,3 +88,5 @@ import Foundation
 
 //print(sumOfTwoNumbers("18446744073709551615", "287346502836570928366"))
 //print(sumOfTwoNumbers("582", "734"))
+
+//print(nationalCompetitionSelectionTest([3, 7, 2, 5, 4, 6, 1], [false, true, true, true, true, false, false]))
