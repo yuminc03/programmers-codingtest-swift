@@ -4,7 +4,7 @@ import Foundation
 func determinFinitePrimeNumber(_ a: Int, _ b: Int) -> Int {
     let child = a / commonFactor(a, b)
     let parent = b / commonFactor(a, b)
-    if child == 1 || child == parent { return 1 }
+    if parent == 1 || child == parent { return 1 }
     
     for i in 2 ... parent {
         if parent % i == 0 {
@@ -18,11 +18,7 @@ func determinFinitePrimeNumber(_ a: Int, _ b: Int) -> Int {
 }
 
 private func commonFactor(_ n1: Int, _ n2: Int) -> Int {
-    if n1 % n2 != 0 {
-        return commonFactor(n2, n1 % n2)
-    }
-    
-    return n2
+    return n1 % n2 == 0 ? n2 : commonFactor(n2, n1 % n2)
 }
 
 private func isPrime(_ n: Int) -> Bool {
