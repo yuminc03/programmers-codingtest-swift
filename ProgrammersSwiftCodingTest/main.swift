@@ -94,3 +94,9 @@ import Foundation
 //print(stringHandlingBasics("1234"))
 
 //print(IHateEnglish("onetwothreefourfivesixseveneightnine"))
+
+//print(diceGame3(2, 2, 2, 2))
+//print(diceGame3(4, 1, 4, 4))
+//print(diceGame3(6, 3, 3, 6))
+//print(diceGame3(2, 5, 2, 6))
+//print(diceGame3(6, 4, 2, 5))
