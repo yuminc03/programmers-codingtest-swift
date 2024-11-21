@@ -100,3 +100,5 @@ import Foundation
 //print(diceGame3(6, 3, 3, 6))
 //print(diceGame3(2, 5, 2, 6))
 //print(diceGame3(6, 4, 2, 5))
+
+//print(sliceArray([0, 1, 2, 3, 4, 5], [4, 1, 2]))
