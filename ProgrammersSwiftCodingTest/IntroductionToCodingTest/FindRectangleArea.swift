@@ -2,5 +2,7 @@ import Foundation
 
 // 직사각형 넓이 구하기
 func findRectangleArea(_ dots: [[Int]]) -> Int {
-    return abs(dots[0][0] - dots[1][0]) * abs(dots[1][1] - dots[2][1])
+    let w = (dots.map { $0[0] }.max() ?? 0) - (dots.map { $0[0] }.min() ?? 0)
+    let h = (dots.map { $0[1] }.max() ?? 0) - (dots.map { $0[1] }.min() ?? 0)
+    return w * h
 }

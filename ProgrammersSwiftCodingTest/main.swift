@@ -102,3 +102,6 @@ import Foundation
 //print(diceGame3(6, 4, 2, 5))
 
 //print(sliceArray([0, 1, 2, 3, 4, 5], [4, 1, 2]))
+
+//print(findRectangleArea([[1, 1], [2, 1], [2, 2], [1, 2]]))
+//print(findRectangleArea([[-1, -1], [1, 1], [1, -1], [-1, 1]]))
