@@ -105,3 +105,6 @@ import Foundation
 
 //print(findRectangleArea([[1, 1], [2, 1], [2, 2], [1, 2]]))
 //print(findRectangleArea([[-1, -1], [1, 1], [1, -1], [-1, 1]]))
+
+//print(addPolynomials("3x + 7 + x"))
+//print(addPolynomials("x + x + x"))
