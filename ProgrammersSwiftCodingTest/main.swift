@@ -108,3 +108,5 @@ import Foundation
 
 //print(addPolynomials("3x + 7 + x"))
 //print(addPolynomials("x + x + x"))
+
+//print(loginSuccess(["programmer01", "15789"], [["programmer02", "111111"], ["programmer00", "134"], ["programmer01", "1145"]]))
