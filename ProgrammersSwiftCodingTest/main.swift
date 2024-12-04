@@ -110,3 +110,5 @@ import Foundation
 //print(addPolynomials("x + x + x"))
 
 //print(loginSuccess(["programmer01", "15789"], [["programmer02", "111111"], ["programmer00", "134"], ["programmer01", "1145"]]))
+
+//print(numbering([[1, 3], [3, 1], [2, 3], [3, 2], [1, 2], [1, 1]]))
