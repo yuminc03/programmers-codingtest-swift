@@ -117,3 +117,6 @@ import Foundation
 //print(chickenCoupon(1081))
 
 //print(pushString("hello", "ohell"))
+
+//print(unusualAlignment([1, 2, 3, 4, 5, 6], 4))
+//print(unusualAlignment([10, 2], 6))
