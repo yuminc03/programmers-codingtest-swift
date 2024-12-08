@@ -115,3 +115,5 @@ import Foundation
 
 //print(chickenCoupon(100))
 //print(chickenCoupon(1081))
+
+//print(pushString("hello", "ohell"))
