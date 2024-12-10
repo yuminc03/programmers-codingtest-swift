@@ -124,3 +124,8 @@ import Foundation
 //print(numberComesNext([1, 2, 3, 4]))
 //print(numberComesNext([2, 4, 8]))
 //print(numberComesNext([-1, 2, -4]))
+
+//print(sumOfConsecutiveNumber(3, 12))
+//print(sumOfConsecutiveNumber(5, 15))
+//print(sumOfConsecutiveNumber(4, 14))
+//print(sumOfConsecutiveNumber(5, 5))
