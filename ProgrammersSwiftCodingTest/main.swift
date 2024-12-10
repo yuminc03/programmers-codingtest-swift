@@ -129,3 +129,5 @@ import Foundation
 //print(sumOfConsecutiveNumber(5, 15))
 //print(sumOfConsecutiveNumber(4, 14))
 //print(sumOfConsecutiveNumber(5, 5))
+
+//print(safeZone([[0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 1, 0, 0], [0, 0, 0, 0, 0]]))
