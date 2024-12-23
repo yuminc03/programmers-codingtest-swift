@@ -132,6 +132,6 @@ import Foundation
 
 //print(safeZone([[0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 1, 0, 0], [0, 0, 0, 0, 0]]))
 
-print(lengthOfOverlappingLineSegment([[0, 1], [2, 5], [3, 9]]))
-print(lengthOfOverlappingLineSegment([[-1, 1], [1, 3], [3, 9]]))
-print(lengthOfOverlappingLineSegment([[0, 5], [3, 9], [1, 10]]))
+//print(lengthOfOverlappingLineSegment([[0, 1], [2, 5], [3, 9]]))
+//print(lengthOfOverlappingLineSegment([[-1, 1], [1, 3], [3, 9]]))
+//print(lengthOfOverlappingLineSegment([[0, 5], [3, 9], [1, 10]]))
