@@ -138,3 +138,5 @@ import Foundation
 
 //print(babbling1(["aya", "yee", "u", "maa", "wyeoo"]))
 //print(babbling1(["ayaye", "uuuma", "ye", "yemawoo", "ayaa"]))
+
+//print(createMinimumValue([1, 4, 2], [5, 4, 4]))
